@@ -14,3 +14,30 @@ a {
 * {
   box-sizing: border-box;
 }
+.navbar h1{
+  text-align: left;
+}
+.navs{
+  display:inline-block;
+  color:#fc322f;
+  margin-left:1200px;
+}
+.navs a{
+  padding:8px;
+}
+.navs a:hover{
+  color:black;
+  border-bottom:2px solid #fc322f;
+}
+.para{
+  width:50%;
+  text-align:left;
+  margin:20px;
+  margin-left:400px;
+  justify-content:center;
+
+}
+.home{
+  background-color:whitesmoke;
+  text-align:center;
+}
